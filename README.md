@@ -1,3 +1,4 @@
+# Assignment 4 in Machine Learning
 # Exercise 1.
 See pdf for results.
 The best hyperparameters are the best of the ones mentioned in the grid_parameters, see below. It is not optimized for each kernel, only a general
